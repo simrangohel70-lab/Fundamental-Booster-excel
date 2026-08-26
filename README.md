@@ -46,7 +46,7 @@
 
 🎬 Watch the complete project demonstration including the **Excel workbook, formulas, calculations, and final analysis**.
 
-### 🔗 [▶️ Watch Project Video](PASTE-YOUR-VIDEO-LINK-HERE)
+### 🔗 ▶️ https://drive.google.com/file/d/1NQixEVAPfIn-0DRZASCbhkebWDuvZPP0/view?usp=drive_link
 
 ---
 
