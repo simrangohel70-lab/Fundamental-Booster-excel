@@ -412,7 +412,7 @@ By completing this project, I practiced:
 
 # 👩‍💻 Author
 
-### **Dharmistha Gohel**
+### **Simran Gohel**
 
 📊 **Excel Data Analysis**
 🧮 **Formula Practice**
